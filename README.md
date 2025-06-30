@@ -22,7 +22,7 @@ https://neeraj450107.github.io/Movie_Landing_Page.github.io/
 
 ## Demo
 
-
+![Image](https://github.com/user-attachments/assets/090655c5-106f-4880-aad4-4664f87742e8)
 
 
 ## Technologies Used
@@ -33,7 +33,9 @@ https://neeraj450107.github.io/Movie_Landing_Page.github.io/
 
 ## Screenshots
 
-
+![Image](https://github.com/user-attachments/assets/57ea49f6-8663-4295-975d-204171b521c4)
+![Image](https://github.com/user-attachments/assets/2d1c7119-e3bb-465c-87aa-3d61fee3af2b)
+![Image](https://github.com/user-attachments/assets/32c62d55-792a-4a15-a388-acd2947616cb)
 
 
 ## Getting Started
