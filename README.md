@@ -21,9 +21,7 @@ https://neeraj450107.github.io/Movie_Landing_Page.github.io/
 
 
 ## Demo
-
-![Image](https://github.com/user-attachments/assets/090655c5-106f-4880-aad4-4664f87742e8)
-
+https://github.com/user-attachments/assets/821c01ac-e90a-4ee2-bda3-54e5d9b8698f
 
 ## Technologies Used
 
